@@ -1,5 +1,5 @@
 {
-  "name": "color-console",
+  "name": "enhanced-console",
   "version": "0.1.0",
   "description": "Add colors to console APIs",
   "main": "index.js",
@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ktalebian/color-console.git"
+    "url": "git+https://github.com/ktalebian/enhanced-console.git"
   },
   "author": "Kousha Talebian <kousha.talebian@gmail.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/ktalebian/color-console/issues"
+    "url": "https://github.com/ktalebian/enhanced-console/issues"
   },
-  "homepage": "https://github.com/ktalebian/color-console#readme",
+  "homepage": "https://github.com/ktalebian/enhanced-console#readme",
   "dependencies": {
     "colors": "^1.1.2",
     "util": "^0.10.3"
