@@ -2,7 +2,7 @@
 Add colors and more power to console APIs
 
 ## Installation
-Install with `npm install color-console`.
+Install with `npm install enhanced-console`.
 
 ## Usage
     var console = require('color-console')
