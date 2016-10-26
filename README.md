@@ -5,7 +5,7 @@ Add colors and more power to console APIs
 Install with `npm install enhanced-console`.
 
 ## Usage
-    var console = require('color-console')
+    const console = require('enhanced-console');
 
     console.info("I should be blue");
     console.warn("I should be yellow");
